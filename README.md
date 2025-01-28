@@ -61,9 +61,6 @@ repo-name/
 │── README.md
 ```
 
-## Screenshots
-_Add screenshots of your landing page here_
-
 ## Contact
 For any queries, feel free to connect:
 - **Name:** Ahasan Habib Parvej  
