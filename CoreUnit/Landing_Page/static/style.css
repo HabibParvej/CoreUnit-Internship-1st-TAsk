@@ -1,0 +1,51 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    height: 100vh;
+}
+
+p{
+    color: red;
+    font-size: .8em;
+}
+
+.container{
+    place-self: center;
+    display: flex;
+    margin-top: 5em;
+}
+
+.box {
+    border-radius: 15px;
+    box-shadow: 5px 5px 20px grey;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: seashell;
+}
+
+button{
+    padding: .5em 1em;
+    margin: 1em;
+    background-color: lightgreen;
+    border: none;
+    border-radius: 5px;
+    
+}
+
+input:focus{
+    outline: .5px solid orange;
+}
+
+input{
+    padding: .5em 1em;
+    border-radius: 10px;
+    border: none;
+}
+
+h1{
+    color: darkslategrey;
+}
